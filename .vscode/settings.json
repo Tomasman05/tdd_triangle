@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "src",
+        "test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\diak\\Vitovszki\\library\\gson-2.10.1.jar",
+        "c:\\Users\\diak\\Vitovszki\\library\\jcommander-1.83.jar",
+        "c:\\Users\\diak\\Vitovszki\\library\\slf4j-api-1.7.36.jar"
+    ]
+}
